@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TEENA THANMAY FITNESS — Gym Membership Management System
 
 FSD-2 project built using HTML5, CSS3, JavaScript, Node.js, Express.js and MySQL.
@@ -72,3 +73,6 @@ Open http://localhost:3000 in your browser.
 | DELETE | `/api/subscriptions/:id` | Delete subscription |
 
 Gym photos use the Unsplash image CDN and require internet access; the app itself runs locally.
+=======
+# Teena-Thanmay-Gym-Membership-System
+>>>>>>> b1f761ebe02bc256890bf358ec9ad3e2f1c498db
