@@ -1,0 +1,14 @@
+{
+  "name": "teena-thanmay-gym-membership-system",
+  "version": "1.0.0",
+  "description": "FSD-2 Gym Membership Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.24.6"
+  }
+}
